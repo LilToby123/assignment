@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/juice",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "The Longest Path",
+      "hasCanvas": false,
+      "bodyTextLen": 652,
+      "bodyTextHash": "ca49b83f62cfae0b58949be0c7505468a6f71a871f5084ffcf627557d1d2b391",
+      "bodyTextPrefix": "The Longest Path Home The project The juices All lessons QUESTIO",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/juice.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "The Longest Path",
+      "hasCanvas": false,
+      "bodyTextLen": 652,
+      "bodyTextHash": "ca49b83f62cfae0b58949be0c7505468a6f71a871f5084ffcf627557d1d2b391",
+      "bodyTextPrefix": "The Longest Path Home The project The juices All lessons QUESTIO",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/juice-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/juice.json"
+}

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "The Longest Path",
+      "hasCanvas": false,
+      "bodyTextLen": 853,
+      "bodyTextHash": "ef51ee780c5a178bb78421d6ab0e2543c43d8c94042615870b1b4feed35d14ac",
+      "bodyTextPrefix": "The Longest Path Home The project The juices CSC 296 · DRAWN SLO",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "The Longest Path",
+      "hasCanvas": false,
+      "bodyTextLen": 853,
+      "bodyTextHash": "ef51ee780c5a178bb78421d6ab0e2543c43d8c94042615870b1b4feed35d14ac",
+      "bodyTextPrefix": "The Longest Path Home The project The juices CSC 296 · DRAWN SLO",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

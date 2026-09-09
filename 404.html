@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>The Longest Path</title>
+  <script>
+    (function () {
+      var rest = location.pathname.replace(/^\/assignment\/?/, "").replace(/\/$/, "");
+      if (rest && rest !== "index.html" && rest !== "404.html") {
+        location.replace("/assignment/#/" + rest.replace(/\.html$/, ""));
+      } else {
+        location.replace("/assignment/");
+      }
+    })();
+  </script>
+</head>
+<body>
+  <p>Taking you to the assignment…</p>
+</body>
+</html>
